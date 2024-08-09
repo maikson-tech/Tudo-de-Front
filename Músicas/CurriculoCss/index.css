@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* Estilos CSS para o documento */
+        body {
+            font-family: Arial, sans-serif; /* Define a fonte para todo o corpo do documento */
+            background-color: #f0f0f0; /* Define a cor de fundo do corpo do documento */
+            margin: 0; /* Remove as margens padrão */
+            padding: 0; /* Remove os preenchimentos padrão */
+        
+        }
+        *{
+            
+        }
+
+        .container {
+            width: 100%; /* Define a largura máxima da área de conteúdo */
+            margin: 20px auto; /* Define margens automáticas para centralizar a área de conteúdo */
+            background-color: #dfd4d4; /* Define a cor de fundo da área de conteúdo */
+            padding: 40px; /* Define o preenchimento interno da área de conteúdo */
+            border-radius: 10px; /* Adiciona bordas arredondadas à área de conteúdo */
+            box-shadow: px rgba(50, 6, 6, 0.6); /* Adiciona uma sombra suave ao redor da área de conteúdo */
+            
+        
+    
+        }
+
+        header {
+            text-align: center; /* Centraliza o texto dentro do elemento header */
+            margin-bottom: 50px; /* Adiciona uma margem inferior para separar do próximo elemento */
+            background:#817979
+          
+        }
+
+        .profile {
+            display: flex; /* Transforma o elemento em um container flexível */
+            align-items: center; /* Centraliza verticalmente os itens dentro do container flexível */
+            justify-content:center; /* Distribui igualmente os itens horizontalmente */
+            padding: 2px; /* Adiciona preenchimento interno para separar os elementos */
+            border: 5px solid #232923; /* Adiciona uma borda fina ao redor do elemento */
+            border-radius: 5; /* Adiciona bordas arredondadas ao elemento */
+        
+        }
+
+        .profile-picture img {
+            width: 140px; /* Define a largura da imagem de perfil */
+            height: 140px; /* Define a altura da imagem de perfil */
+            border-radius: 10%; /* Adiciona um formato circular à imagem de perfil */
+            object-fit: scale-down; /* Redimensiona a imagem para cobrir a área sem distorcer */
+            border: 0px solid #694848; /* Adiciona uma borda fina ao redor da imagem */
+            <img src="../Imagem de fundo TI.png" alt="">
+        }
+
+        .profile-details {
+            
+            flex: 1; /* Faz com que o elemento ocupe todo o espaço disponível no container flexível */
+            margin-left: 20px; /* Adiciona uma margem à esquerda para separar dos outros elementos */
+            font-family: "Kanit", sans-serif;  /* Define a família de fontes */
+            margin: 1%; /* Remove margens padrão */
+            padding: 1%; /* Remove preenchimento padrão */
+            line-height: 1.5; /* Define a altura da linha */
+            
+        }
+
+        footer {
+            text-align: left; /* Centraliza o texto dentro do elemento footer */
+            margin-top: 2cap; /* Adiciona uma margem superior para separar do conteúdo anterior */
+            padding-top: 1px; /* Adiciona preenchimento interno na parte superior */
+            border-top: px solid #cf2f2f; /* Adiciona uma linha fina no topo do elemento */
+        }
+        
+     
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif; /* Define a família de fontes */
+            margin: 1%; /* Remove margens padrão */
+            padding: 1%; /* Remove preenchimento padrão */
+            line-height: 1.5; /* Define a altura da linha */
+        }
+    
+       .title { 
+       text-align: center;
+       background:#917d7d
+        }
+
+        
+    
+      
+        
+        
+        
+.user-content{
+    display: flex;
+    
+}
+
+
+
+
+
